@@ -6,4 +6,6 @@
 * Joker
 * Thanos
 * Pinguino
-* Venom
+* Red-Venom
+* Sandman
+* Destructor
