@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * Loki
+* Spider Man
